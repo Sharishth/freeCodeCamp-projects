@@ -8,7 +8,8 @@ This repository contains the projects I have completed as part of the freeCodeCa
 | ------ | ----------- |
 | Back End Development and APIs | [Timestamp Microservice](./BackEnd-Development-and-APIs/timestamp-microservice) |
 |  | [Request Header Parser Microservice](./BackEnd-Development-and-APIs/request-header-parser-microservice) |
-|  | [URL Shortener Microservice](./BackEnd-Development-and-APIs/urlshortener)
+|  | [URL Shortener Microservice](./BackEnd-Development-and-APIs/urlshortener) |
+|  | [Project Exercise tracker](./BackEnd-Development-and-APIs/project-exercisetracker) |
 
 ---
 
