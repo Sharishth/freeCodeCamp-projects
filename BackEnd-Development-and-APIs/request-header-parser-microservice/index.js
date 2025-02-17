@@ -10,9 +10,9 @@ app.get('/', function (req, res) {
   res.sendFile(__dirname + '/views/index.html');
 });
 
-app.get("/api/whoami", (req, res) => {
+app.get("/api/whoami", (req, res, next) => {
   res.json({
-    ipaddress : req.headers['x-forwarded-for'] || req.socket.remoteAddress || "Unknown",
+    ipaddress : req.socket.remoteAddress || "Unknown",
     language : req.headers["accept-language"] || "Unknown",
     software : req.headers["user-agent"] || "Unknown"
   });
