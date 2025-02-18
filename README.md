@@ -10,6 +10,7 @@ This repository contains the projects I have completed as part of the freeCodeCa
 |  | [Request Header Parser Microservice](./BackEnd-Development-and-APIs/request-header-parser-microservice) |
 |  | [URL Shortener Microservice](./BackEnd-Development-and-APIs/urlshortener) |
 |  | [Project Exercise tracker](./BackEnd-Development-and-APIs/project-exercisetracker) |
+|  | [File Metadata Microservice](./BackEnd-Development-and-APIs/file-metadata-microservice) |
 
 ---
 
